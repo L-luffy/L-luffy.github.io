@@ -1,11 +1,11 @@
 # Site settings
 title: meme Blog
-SEOTitle: L-luffy.github.io | meme Blog
+SEOTitle: louwuxia.github.io | meme Blog
 header-img: img/我是谁.jpg
 email: louwuxia@gmail.com
 description: "觉醒的机器人"
 keyword: "觉醒, 机器人, 武霞, wuxia, 娄武霞, meme, L-luffy, 觉醒的机器人, ios, Apple, iPhone"
-url: "http://L-luffy.github.io"          # your host, for absolute URL
+url: "http://louwuxia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/L-luffy/L-luffy.github.io.git" # you code repository
 
@@ -65,7 +65,7 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: louwuxia.github.io    #仓库名称
-  owner: L-luffy    #github用户名
+  owner: louwuxia    #github用户名
   admin: qiubaiying
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "",
+        href: ""
     },{
         title: "",
         href: ""
