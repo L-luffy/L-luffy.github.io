@@ -1,13 +1,13 @@
 # Site settings
 title: meme Blog
-SEOTitle: 娄武霞的博客 | BY Blog
-header-img: https://ftp.bmp.ovh/imgs/2019/09/059cab67296da1ab.jpg
+SEOTitle: L-luffy.github.io | meme Blog
+header-img: img/post-bg-rwd.jpg
 email: louwuxia@gmail.com
-description: "觉醒的机器人."
-keyword: "觉醒, 机器人, 武霞, wuxia, 娄武霞, 觉醒的机器人, ios, Apple, iPhone"
-url: "http://louwuxia.github.io"          # your host, for absolute URL
+description: "觉醒的机器人"
+keyword: "觉醒, 机器人, 武霞, wuxia, 娄武霞, meme, L-luffy, 觉醒的机器人, ios, Apple, iPhone"
+url: "http://L-luffy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/L-luffy/L-luffy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id:          # Format: UA-xxxxxx-xx
+ga_domain:             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -102,13 +102,13 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "",
+        href: ""
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "",
+        href: ""
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "A",
+        href: ""
     }
 ]
