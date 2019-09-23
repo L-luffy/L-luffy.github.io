@@ -7,7 +7,7 @@ description: "觉醒的机器人"
 keyword: "觉醒, 机器人, 武霞, wuxia, 娄武霞, meme, L-luffy, 觉醒的机器人, ios, Apple, iPhone"
 url: "http://louwuxia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/L-luffy/L-luffy.github.io.git" # you code repository
+github_repo: "https://github.com/louwuxia/louwuxia.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
